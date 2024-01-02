@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Semantrum](https://semantrum.net/)
 
-- 👨‍💻 All of my projects are available at [sekhnodev.com](sekhnodev.com)
+- 👨‍💻 All of my projects are available at [sekhnodev.com](https://sekhnodev.com)
 
 - 💬 Ask me about **angular, react**
 
